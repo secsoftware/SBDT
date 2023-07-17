@@ -34,10 +34,5 @@ SBDT: a prototype tool of **S**earch-**B**ased **D**ifferential **T**esting of C
 # Copyright and Citation Request
 + Copyright@SecuritySoftware Team(Chu Chen etc. github.com/secsoftware)
 + If your project uses or refer to our code, please cite as follows. Thank you!
-"""
-Chu Chen, Pinghong Ren, Zhenhua Duan, Cong Tian, Xu Lu, and Bin Yu. 2023. 
-SBDT: Search-Based Differential Testing of Certificate Parsers in SSL/TLS Implementations. 
-In Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA ’23), July
-17–21, 2023, Seattle, WA, USA. ACM, New York, NY, USA, 13 pages. 
-https://doi.org/10.1145/3597926.3598110
-""" 
+`Chu Chen, Pinghong Ren, Zhenhua Duan, Cong Tian, Xu Lu, and Bin Yu. 2023. SBDT: Search-Based Differential Testing of Certificate Parsers in SSL/TLS Implementations. In Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA ’23), July 17–21, 2023, Seattle, WA, USA. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3597926.3598110`
+ 
