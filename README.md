@@ -28,8 +28,9 @@ SBDT: a prototype tool of **S**earch-**B**ased **D**ifferential **T**esting of C
 # Detailed Instructions
 + Main functionality:
   + Users may change the model based on their testing goals.
++ Single functionality:
   + Users may choose which parsers to test. Also, users may write their code to parser other parsers. If so, SBDT_4 should be modified too.
-  + We will open a better and extended project which has better performance and functionalities later.
++ Later, we will open a better and extended project which has better performance and functionalities.
 
 # Copyright and Citation Request
 + Copyright@SecuritySoftware Team(Chu Chen etc. github.com/secsoftware)
