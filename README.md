@@ -25,7 +25,7 @@ SBDT: a prototype tool of **S**earch-**B**ased **D**ifferential **T**esting of C
 + Functionality--normalize the outputs of ZCertificate: Eclipse-->SBDT_3_converter_ZCertificate-->debug (F11) or run (ctrl+F11)
 + Functionality--hunt discrepancies: Eclipse-->SBDT_4_SD_discrepancy_hunter-->debug (F11) or run (ctrl+F11)
 
-# Detailed Instructions
+## Detailed Instructions
 + Main functionality:
   + Users may change the model based on their testing goals.
 + Single functionality:
