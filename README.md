@@ -18,7 +18,26 @@ SBDT: a prototype tool of **S**earch-**B**ased **D**ifferential **T**esting of C
 + other implementations that users want to test
 
 ## Steps to check the basic functionality 
-+ to be continued ...
++ Main functionality: Eclipse-->SBDT_1_MST_mutation-->debug (F11) or run (ctrl+F11)
++ Functionality--certificcate parsing: Eclipse-->SBDT_2_certificate_parsing-->debug (F11) or run (ctrl+F11)
++ Functionality--normalize the outputs of GnuTLS: Eclipse-->SBDT_3_converter_GnuTLS-->debug (F11) or run (ctrl+F11)
++ Functionality--normalize the outputs of OpenSSL: Eclipse-->SBDT_3_converter_OpenSSL-->debug (F11) or run (ctrl+F11)
++ Functionality--normalize the outputs of ZCertificate: Eclipse-->SBDT_3_converter_ZCertificate-->debug (F11) or run (ctrl+F11)
++ Functionality--hunt discrepancies: Eclipse-->SBDT_4_SD_discrepancy_hunter-->debug (F11) or run (ctrl+F11)
 
 # Detailed Instructions
-+ to be continued ...
++ Main functionality:
+  + Users may change the model based on their testing goals.
+  + Users may choose which parsers to test. Also, users may write their code to parser other parsers. If so, SBDT_4 should be modified too.
+  + We will open a better and extended project which has better performance and functionalities later.
+
+# Copyright and Citation Request
++ Copyright@SecuritySoftware Team(Chu Chen etc. github.com/secsoftware)
++ If your project uses or refer to our code, please cite as follows. Thank you!
+"""
+Chu Chen, Pinghong Ren, Zhenhua Duan, Cong Tian, Xu Lu, and Bin Yu. 2023. 
+SBDT: Search-Based Differential Testing of Certificate Parsers in SSL/TLS Implementations. 
+In Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA ’23), July
+17–21, 2023, Seattle, WA, USA. ACM, New York, NY, USA, 13 pages. 
+https://doi.org/10.1145/3597926.3598110
+""" 
